@@ -35,4 +35,3 @@ Self-taught, no bootcamp. I build full-stack apps and AI agent tooling from scra
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=sagaga144&show_icons=true&theme=dark&hide_title=true" alt="GitHub stats" height="150"/>
